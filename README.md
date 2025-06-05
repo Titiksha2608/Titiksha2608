@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Titiksha Mukhopadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **DSA, Fullstack Development**
+
 - 📫 How to reach me **titikshamuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,9 +17,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/titiksha2608"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="titiksha2608" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titiksha2608&show_icons=true&locale=en&layout=compact" alt="titiksha2608" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titiksha2608&show_icons=true&locale=en" alt="titiksha2608" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titiksha2608&" alt="titiksha2608" /></p>
